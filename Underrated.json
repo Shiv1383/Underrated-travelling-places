@@ -910,6 +910,25 @@
 		"fascinatingFact":"Salar de Uyuni, amid the Andes in southwest Bolivia, is the world’s largest salt flat. It’s the legacy of a prehistoric lake that went dry, leaving behind a desertlike, nearly 11,000-sq.-km. landscape of bright-white salt, rock formations and cacti-studded islands",
 		"howToReach":"https://www.salardeuyuni.com/how-to-get-to-salar-de-uyuni/"   
 	},
+
+          {
+		  "id":47,
+
+        "place":"kedarnath ",
+
+        "country":"India",
+
+        "photos":"https://images.app.goo.gl/FRwbsnH4CV4meHGQ8",
+
+        "Language":["Hindi"],
+
+        "famousFor":"temple ,mountains ",
+
+        "fascinatingFact":"The great experience to be in the world ",
+
+        "howToReach": "https://maps.app.goo.gl/EBC6kMvzSZaMe3G29"
+
+},
   {
         "id":56,
         "place":" Santoshwadi ",
